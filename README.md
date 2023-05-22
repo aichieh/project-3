@@ -43,7 +43,7 @@ In general, most posts are neutral; however, r/AwardTravel has a slightly higher
 ![image](https://git.generalassemb.ly/aichieh/project-3/blob/12f801fdc8a59939575e5718f74698fa13778726/pic/Sentiment.png)
 
 Most popular unigrams via Cvec:
-![image](https://github.com/aichieh/project-3/blob/main/pic/Sentiment.png)
+![image](https://github.com/aichieh/project-3/blob/main/pic/cvec.png)
 
 Most popular unigrams via TFidf:
 ![image](https://git.generalassemb.ly/aichieh/project-3/blob/0796fa3bb5a46cd2c6d2bcd5a841ec5417be4e00/pic/tvec.png)
