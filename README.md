@@ -49,7 +49,7 @@ Most popular unigrams via TFidf:
 ![image](https://github.com/aichieh/project-3/blob/main/pic/tvec.png)
 
 Most popular trigrams via CountVectorizer in between two subreddits:
-![image](https://git.generalassemb.ly/aichieh/project-3/blob/1193a46ac365ea8df12378966043f21a84fdbc4a/pic/Top%20trigrams.png)
+![image](https://github.com/aichieh/project-3/blob/main/pic/Top%20trigrams.png)
 
 #### Conclusions
 
