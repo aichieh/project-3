@@ -37,7 +37,7 @@ Reddit is a network platform where people share their interests, hobbies, and pa
 
 2. EDA:
     On average, r/AwardTravel has much longer length of selftext than r/TravelHacks. The average post length of title is about equal for both site. r/AwardTravel seems to have more active members leaving comments to the posts.
-![image](https://git.generalassemb.ly/aichieh/project-3/blob/7ae713811f88ed757562258f44d07a8d235a4adc/pic/num_post.png)
+![image](https://github.com/aichieh/project-3/blob/main/pic/num_post.png)
 
 In general, most posts are neutral; however, r/AwardTravel has a slightly higher sentiment score than r/TravelHacks.
 ![image](https://git.generalassemb.ly/aichieh/project-3/blob/12f801fdc8a59939575e5718f74698fa13778726/pic/Sentiment.png)
